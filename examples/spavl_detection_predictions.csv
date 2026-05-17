@@ -1,0 +1,3 @@
+sample_key,feature_idx,row_idx,span_idx,layer_path,true_answer,pred_answer,status
+row_id=1926|span_idx=0|layer_path=model.language_model.layers.16,0,0,0,model.language_model.layers.16,safe,safe,done
+row_id=1947|span_idx=0|layer_path=model.language_model.layers.16,0,1,0,model.language_model.layers.16,unsafe,unsafe,done

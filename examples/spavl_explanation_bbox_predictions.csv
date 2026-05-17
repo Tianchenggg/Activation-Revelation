@@ -1,0 +1,3 @@
+sample_key,feature_idx,row_idx,row_id,span_idx,layer_path,source,source_split,image_path,true_bbox_json,pred_bbox_json
+row_id=27|span_idx=0|layer_path=model.language_model.layers.16,0,0,27,0,model.language_model.layers.16,dataset_C,dataset_C,examples/images/spavl_bbox_streamers_27.jpg,"{""bbox"":[133,10,575,990]}","{""bbox"":[138,15,570,985]}"
+row_id=3|span_idx=0|layer_path=model.language_model.layers.16,0,1,3,0,model.language_model.layers.16,dataset_C,dataset_C,examples/images/spavl_bbox_beatles_3.jpg,"{""bbox"":[0,496,1000,1000]}","{""bbox"":[5,501,995,995]}"

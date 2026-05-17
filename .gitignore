@@ -1,0 +1,12 @@
+outputs/
+data/
+models/
+*.pt
+*.safetensors
+*.bin
+__pycache__/
+*.py[cod]
+.pytest_cache/
+wandb/
+.env
+
