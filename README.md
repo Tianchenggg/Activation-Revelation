@@ -8,8 +8,6 @@
 
 **Activation Revelation (AR)** is an activation-conditioned framework for fine-grained multimodal safety auditing. It traces localized safety risks in vision-language model responses by detecting unsafe response segments and grounding the image regions that support those risks.
 
-This repository is the minimal executable release for AR. It keeps the pieces needed to run our method and leaves out baselines, ablation launchers, experiment logs, model checkpoints, and full datasets.
-
 > This codebase is built on and adapted from Adam Karvonen's [Activation Oracles](https://github.com/adamkarvonen/activation_oracles). The upstream MIT license notice is preserved in [LICENSE](LICENSE), with additional attribution in [NOTICE](NOTICE).
 
 ## What AR Does
